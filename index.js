@@ -199,4 +199,4 @@ client.on('interactionCreate', async (interaction) => {
     db.add(`Timeout.${interaction.member.id}`, 1);
 });
 
-client.login('OTQ3MDc0OTQ2MDUwNDQ5NDA4.Yhn-Rg.TDSoDVfmJ5xnHz25eVRZ4nma-so');
+client.login('bottoken');
